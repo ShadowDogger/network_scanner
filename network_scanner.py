@@ -1,7 +1,7 @@
 
 import kamene.all as scapy
 
-ip = input('Input target ip')
+ip = input('Input target ip ')
 
 
 def scan(ip):
